@@ -1,0 +1,15 @@
+account_id = "2195cc9c6f010e910cae2173aa116a1e"
+name = "bp-park-events"
+main = "src/index.ts"
+compatibility_date = "2026-06-10"
+
+[vars]
+ADMIN_USER = "admin"
+
+[observability]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bp_park_db"
+database_id = "38edec6d-edc4-406d-9c31-6212c0fc2596"
