@@ -148,7 +148,7 @@ app.get('/', (c) => {
   </style>
 </head>
 <body>
-  <header><div class="brand">BUDAPEST <span>PARK</span> • Events</div></header>
+  <header><div class="brand">BUDAPEST <span>PARK</span> • Events v0.1</div></header>
   <main id="app">
     <section class="hero">
       <h1>2026 Season Listing</h1>
